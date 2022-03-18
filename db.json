@@ -1,0 +1,393 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "data": [
+    {
+      "name": "manoj",
+      "id": "25"
+    },
+    {
+      "name": "rakesh",
+      "id": "55"
+    },
+    {
+      "Email": "manoj@gmail.com",
+      "Password": "9908106342",
+      "id": "uMbQffU"
+    },
+    {
+      "Email": "manoj@gmail.com",
+      "Password": "99353235555233",
+      "id": "aDwEj4T"
+    },
+    {
+      "Email": "manoj@gmail.com",
+      "Password": "99353235555233",
+      "id": "gRX12cV"
+    },
+    {
+      "Email": "naveen@gmail.com3698521770",
+      "Password": "3698521470",
+      "id": "3hJf0eP"
+    },
+    {
+      "Email": "naveen@gmail.com3698521770",
+      "Password": "3698521470",
+      "id": "0zdoZ1y"
+    },
+    {
+      "Email": "naveen@gmail.com3698521770",
+      "Password": "3698521470",
+      "id": "EgHF2JY"
+    },
+    {
+      "Email": "naveen@gmail.com3698521770",
+      "Password": "3698521470",
+      "id": "yPVUuEP"
+    },
+    {
+      "Email": "naveen@gmail.com3698521770",
+      "Password": "3698521470",
+      "id": "DuwJkyn"
+    },
+    {
+      "Email": "naveen@gmail.com3698521770",
+      "Password": "3698521470",
+      "id": "T-sCZy8"
+    },
+    {
+      "Email": "naveen@gmail.com3698521770",
+      "Password": "3698521470",
+      "id": "yWYuImO"
+    },
+    {
+      "Email": "naveen@gmail.com3698521770",
+      "Password": "3698521470",
+      "id": "oPJWCes"
+    },
+    {
+      "Email": "ktgyf;pklp",
+      "Password": "74172820214",
+      "id": "_2Njy-X"
+    },
+    {
+      "Email": "ktgyf;pklp",
+      "Password": "74172820214",
+      "id": "YwkqHVc"
+    },
+    {
+      "Email": "ktgyf;pklp",
+      "Password": "74172820214",
+      "id": "iZ5AGbb"
+    },
+    {
+      "Email": "ktgyf;pklp",
+      "Password": "74172820214",
+      "id": "JdTiflz"
+    },
+    {
+      "Email": "ktgyf;pklp",
+      "Password": "74172820214",
+      "id": "0EDdg8G"
+    },
+    {
+      "Email": "ktgyf;pklp",
+      "Password": "74172820214",
+      "id": "psLorpu"
+    },
+    {
+      "Email": "ktgyf;pklp",
+      "Password": "74172820214",
+      "id": "-hVPd9e"
+    },
+    {
+      "Email": "ktgyf;pklp",
+      "Password": "74172820214",
+      "id": "YtUOsJ1"
+    },
+    {
+      "FirstName": "t5vg",
+      "LastName": "vwgevrg",
+      "Email": "lakkarsunaresh@perfextechnologies.com",
+      "Phone": "8498072171",
+      "Website": "y46wy45ty",
+      "Address": "by5543",
+      "Zipcode": "215725",
+      "City": "euy6wgy",
+      "id": "e5H6P6n"
+    },
+    {
+      "FirstName": "",
+      "LastName": "",
+      "Email": "",
+      "Phone": "",
+      "Website": "",
+      "Address": "",
+      "Zipcode": "",
+      "City": "",
+      "id": "wPbLSor"
+    },
+    {
+      "FirstName": "",
+      "LastName": "",
+      "Email": "",
+      "Phone": "",
+      "Website": "",
+      "Address": "",
+      "Zipcode": "",
+      "City": "",
+      "id": "FSoKD8q"
+    },
+    {
+      "FirstName": "",
+      "LastName": "",
+      "Email": "",
+      "Phone": "",
+      "Website": "",
+      "Address": "",
+      "Zipcode": "",
+      "City": "",
+      "id": "Jc923Uc"
+    },
+    {
+      "FirstName": "",
+      "LastName": "",
+      "Email": "",
+      "Phone": "",
+      "Website": "",
+      "Address": "",
+      "Zipcode": "",
+      "City": "",
+      "id": "_B_EPZL"
+    },
+    {
+      "FirstName": "",
+      "LastName": "",
+      "Email": "",
+      "Phone": "",
+      "Website": "",
+      "Address": "",
+      "Zipcode": "",
+      "City": "",
+      "id": "lW0edvk"
+    },
+    {
+      "FirstName": "",
+      "LastName": "",
+      "Email": "",
+      "Phone": "",
+      "Website": "",
+      "Address": "",
+      "Zipcode": "",
+      "City": "",
+      "id": "SZJLFBJ"
+    },
+    {
+      "FirstName": "",
+      "LastName": "",
+      "Email": "",
+      "Phone": "",
+      "Website": "",
+      "Address": "",
+      "Zipcode": "",
+      "City": "",
+      "id": "iQsZOQ2"
+    },
+    {
+      "FirstName": "",
+      "LastName": "",
+      "Email": "",
+      "Phone": "",
+      "Website": "",
+      "Address": "",
+      "Zipcode": "",
+      "City": "",
+      "id": "e_mQ5uC"
+    },
+    {
+      "FirstName": "",
+      "LastName": "",
+      "Email": "",
+      "Phone": "",
+      "Website": "",
+      "Address": "",
+      "Zipcode": "",
+      "City": "",
+      "id": "yfETDDI"
+    },
+    {
+      "FirstName": "",
+      "LastName": "",
+      "Email": "",
+      "Phone": "",
+      "Website": "",
+      "Address": "",
+      "Zipcode": "",
+      "City": "",
+      "id": "mBHoKWD"
+    }
+  ],
+  "users": [
+    {
+      "firstname": "manojkumr",
+      "phone": "369852147  ",
+      "email": "manoj@gmail.com",
+      "Password": "74172820214"
+    },
+    {
+      "firstname": "rakeshborehrhrht",
+      "phone": "9685743625",
+      "email": "rakesh@gmail.com",
+      "id": "mTODTzo"
+    },
+    {
+      "firstname": "ajay",
+      "phone": "9865324172",
+      "email": "ajay@gmail.com",
+      "id": "4MJLho4"
+    },
+    {
+      "firstname": "ganesh",
+      "phone": "26520728702",
+      "email": "lakkarsunareshperfextechnologies@gmail.com",
+      "id": "GjLPyRt"
+    },
+    {
+      "firstname": "rakesh",
+      "phone": "3546341",
+      "email": "lakkarsunareshperfextechnologies@gmail.com",
+      "id": "fDRrJc1"
+    },
+    {
+      "firstname": "dfjcwlrwfhk",
+      "phone": "427425568888",
+      "email": "manoj@gmail.com",
+      "id": "dOfKKR-"
+    },
+    {
+      "Email": "uu6uy",
+      "Password": "yujyj",
+      "id": "gcEIM1O",
+      "firstname": "sravani",
+      "phone": "657454643852",
+      "email": "sravani@gmail.com"
+    }
+  ],
+  "Data": [
+    {
+      "id": "1",
+      "name": "Hyderbad"
+    },
+    {
+      "id": "2",
+      "name": "Suryapet"
+    },
+    {
+      "id": "3",
+      "name": "Nalgonda"
+    },
+    {
+      "id": "4",
+      "name": "Medhak"
+    },
+    {
+      "id": "5",
+      "name": "Janagama"
+    },
+    {
+      "id": "6",
+      "name": "Karimnagar"
+    },
+    {
+      "id": "7",
+      "name": "Ranggareddy"
+    },
+    {
+      "id": "8",
+      "name": "Kothapet"
+    },
+    {
+      "id": "9",
+      "name": "Bhonagiri"
+    },
+    {
+      "id": "10",
+      "name": "Warngal"
+    },
+    {
+      "id": "11",
+      "name": "Siddipet"
+    },
+    {
+      "id": "12",
+      "name": "Bhadrachalam"
+    },
+    {
+      "id": "13",
+      "name": "Shadhnagar"
+    },
+    {
+      "id": "14",
+      "name": "Vijayawada"
+    },
+    {
+      "id": "15",
+      "name": "Vishakapatnam"
+    },
+    {
+      "id": "16",
+      "name": "Kadapa"
+    },
+    {
+      "id": "17",
+      "name": "Karnool"
+    },
+    {
+      "id": "18",
+      "name": "Vizag"
+    },
+    {
+      "id": "19",
+      "name": "Guntur"
+    },
+    {
+      "id": "20",
+      "name": "Miryalaguda"
+    },
+    {
+      "id": "21",
+      "name": "Jagithyala"
+    },
+    {
+      "id": "22",
+      "name": "Hanumakonda"
+    },
+    {
+      "id": "23",
+      "name": "kodhada"
+    },
+    {
+      "id": "24",
+      "name": "yadhadhri"
+    },
+    {
+      "id": "25",
+      "name": "Manchiryala"
+    }
+  ]
+}
